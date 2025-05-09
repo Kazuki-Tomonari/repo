@@ -2,6 +2,5 @@
 <manifest>
   <remote fetch="https://github.com/" name="github"/>
   <project path="test_repo/EC_System" name="Kazuki-Tomonari/EC_System"  remote="github" revision="main"/>
-  <project path="test_repo/EC_Docker" name="Kazuki-Tomonari/EC_Docker"  remote="github" revision="main"/>
   <project path="test_repo/EC_Kubernetes" name="Kazuki-Tomonari/EC_Kubernetes"  remote="github" revision="master"/>
 </manifest>
