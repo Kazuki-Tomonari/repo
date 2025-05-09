@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="https://github.com/" name="github"/>
+  <project path="test_repo/EC_Docker" name="Kazuki-Tomonari/EC_Docker"  remote="github" revision="main"/>
+  <project path="test_repo/EC_Kubernetes" name="Kazuki-Tomonari/EC_Kubernetes"  remote="github" revision="main"/>
+</manifest>
